@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<img alt="계란후라이 로고" src="image/fried-egg.png">
+<img alt="계란후라이 로고" src="src/public/img/fried-egg.png">
 
 </div>
 
@@ -35,34 +35,34 @@
 
 ### :page_facing_up: 페이지 별 화면
 
-|                                       |                                    |
-| ------------------------------------- | ---------------------------------- |
-| ![image](image/main.png)              | ![image](image/register.png)       |
-| 메인 페이지                           | 회원가입 화면                      |
-| ![image](image/login.png)             | ![image](image/list-fruit.png)     |
-| 로그인 페이지                         | 카테고리별 제품 목록 페이지 (과일) |
-| ![image](image/list-vegetable.png)    | ![image](image/detail.png)         |
-| 카테고리별 제품 목록 페이지 (채소)    | 제품 상세 페이지                   |
-| ![image](image/cart.png)              | ![image](image/order.png)          |
-| 장바구니 페이지                       | 주문 페이지                        |
-| ![image](image/order-complete.png)    | ![image](image/order-list.png)     |
-| 주문완료 페이지                       | 주문내역 페이지                    |
-| ![image](image/order-detail.png)      |                                    |
-| 주문상세페이지                        |                                    |
-| ![image](image/mypage.png)            | ![image](image/mypage-update.png)  |
-| 마이페이지                            | 수정 페이지                        |
-| ![image](image/admin.png)             | ![image](image/admin-products.png) |
-| 관리자 관리 페이지                    | 상품 관리                          |
-| ![image](image/admin-product-add.png) |                                    |
-| 상품 수정 페이지                      |                                    |
-| ![image](image/admin-category.png)    | ![image](image/admin-order.png)    |
-| 관리자 카테고리 관리 페이지           | 관리자 주문 관리 페이지            |
+|                                        |                                     |
+| -------------------------------------- | ----------------------------------- |
+| ![image](/image/main.png)              | ![image](/image/register.png)       |
+| 메인 페이지                            | 회원가입 화면                       |
+| ![image](/image/login.png)             | ![image](image/list-fruit.png)      |
+| 로그인 페이지                          | 카테고리별 제품 목록 페이지 (과일)  |
+| ![image](/image/list-vegetable.png)    | ![image](/image/detail.png)         |
+| 카테고리별 제품 목록 페이지 (채소)     | 제품 상세 페이지                    |
+| ![image](/image/cart.png)              | ![image](/image/order.png)          |
+| 장바구니 페이지                        | 주문 페이지                         |
+| ![image](image/order-complete.png)     | ![image](/image/order-list.png)     |
+| 주문완료 페이지                        | 주문내역 페이지                     |
+| ![image](image/order-detail.png)       |                                     |
+| 주문상세페이지                         |                                     |
+| ![image](image/mypage.png)             | ![image](image/mypage-update.png)   |
+| 마이페이지                             | 수정 페이지                         |
+| ![image](/image/admin.png)             | ![image](/image/admin-products.png) |
+| 관리자 관리 페이지                     | 상품 관리                           |
+| ![image](/image/admin-product-add.png) |                                     |
+| 상품 수정 페이지                       |                                     |
+| ![image](/image/admin-category.png)    | ![image](/image/admin-order.png)    |
+| 관리자 카테고리 관리 페이지            | 관리자 주문 관리 페이지             |
 
 <br />
 
 ## :hammer_and_wrench: 기술 스택
 
-![image](image/stack.png)
+![image](/image/stack.png)
 
 ### 프론트엔드
 
