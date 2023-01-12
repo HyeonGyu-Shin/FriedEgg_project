@@ -8,20 +8,6 @@
 
 <br />
 
-## 서비스 링크
-
-> http://kdt-sw3-team14.elicecoding.com/
-
-#### 테스트 계정
-
-- 일반 유저
-  - ID: root@root.com
-  - PW: 1234
-- 관리자
-  - ID: admin@admin.com
-  - PW: 1234
-    <br />
-
 ## 프로젝트 소개
 
 #### 관리자가 제품과 카테고리를 관리할 수 있고 사용자는 제품에 접근할 수 있으며, 장바구니 추가, 주문하기 등이 가능합니다.
@@ -134,58 +120,9 @@
 
 <br />
 
-## :runner: 로컬 실행 방법
-
-1. 레포지토리를 클론하고자 하는 디렉토리에서 아래 명령어를 수행
-
-   ```
-   git clone <레포지토리 주소>
-   ```
-
-<br>
-
-2. 클론한 디렉토리에서 backend 디렉토리로 들어가 아래 명령어를 통해 backend에서 필요한 module 설치
-
-   ```
-   npm install
-   ```
-
-<br>
-
-3. backend에서 필요한 `.env` 설정
-
-- 아래 설명에 따라 환경변수 설정
-
-  ```
-  MONGODB_URL=<몽고DB URL>
-  PORT=5000
-  JWT_SECERT_KEY=<랜덤 문자열>
-   NODE_ENV="dev"
-   CLOUDINARY_CLOUD_NAME=<CLOUDINARY_ID>
-   CLOUDINARY_KEY=<CLOUDINARY_KEY>
-   CLOUDINARY_SECRET=<CLOUDINARY_SECRET>
-
-  ```
-
-앱을 테스트하고 싶은 경우 다음의 몽고DB URL을 이용하세요.
-
-- `mongodb+srv://vegetable:<비밀번호>@vegetable.uoxspel.mongodb.net/vegetable?retryWrites=true&w=majority`
-  <br>
-
-4. express 앱을 실행
-
-   ```
-   npm run start
-   ```
-
-<br>
 
 ## API Postman URL
 
 - https://documenter.getpostman.com/view/23999077/2s8YRmJXwV
 
-## API 테스트
 
-```
-npm run test
-```
